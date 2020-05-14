@@ -114,7 +114,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libantradio \
-    libplatformconfig \
     NxpNfcNci \
     NxpSecureElement \
     HotwordEnrollmentOKGoogleWCD9340 \
